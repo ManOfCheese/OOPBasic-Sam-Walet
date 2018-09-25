@@ -1,0 +1,13 @@
+﻿  Docent.cpp
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\docent.h(6): error C2504: 'Persoon': base class undefined
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\docent.cpp(5): error C2065: 'age': undeclared identifier
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\docent.cpp(6): error C2065: 'name': undeclared identifier
+  Persoon.cpp
+  PersoonInheritance.cpp
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\persooninheritance.cpp(13): error C2661: 'Student::Student': no overloaded function takes 2 arguments
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\persooninheritance.cpp(14): error C2661: 'Docent::Docent': no overloaded function takes 2 arguments
+  Student.cpp
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\student.h(6): error C2504: 'Persoon': base class undefined
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\student.cpp(5): error C2065: 'age': undeclared identifier
+c:\users\samwa\source\repos\persooninheritance\persooninheritance\student.cpp(6): error C2065: 'name': undeclared identifier
+  Generating Code...
