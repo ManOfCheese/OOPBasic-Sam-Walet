@@ -1,0 +1,7 @@
+﻿  OpenbaarVervoer.cpp
+c:\users\samwa\source\repos\openbaarvervoer\openbaarvervoer\intercity.h(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\samwa\source\repos\openbaarvervoer\openbaarvervoer\regiobus.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\samwa\source\repos\openbaarvervoer\openbaarvervoer\regiobus.h(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\samwa\source\repos\openbaarvervoer\openbaarvervoer\driedeligebus.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\samwa\source\repos\openbaarvervoer\openbaarvervoer\driedeligebus.h(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenbaarVervoer.vcxproj -> C:\Users\samwa\source\repos\OpenbaarVervoer\Debug\OpenbaarVervoer.exe
